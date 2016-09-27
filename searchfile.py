@@ -1,5 +1,12 @@
 #!/usr/bin/python
 # -*- coding: utf-8 -*
+###################################
+#         Searchinfile            #
+#      langage : Python 2.7       # 
+#         date : 28/08/16         #
+#          version : 1.0          #
+#        auteur : devkort         #
+###################################
 
 import os
 import sys
